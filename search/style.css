@@ -1,0 +1,67 @@
+
+
+.nav {
+  text-align: right;
+}
+
+body {
+  background-color: #1F1F20;
+}
+
+.new {
+  max-width: 600px;
+  margin: auto;
+}
+
+a {
+  font-family: arial;
+  color: White;
+  text-decoration: none;
+  padding: 0px 5px;
+  font-size: 13px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.centerinput {
+  width: 100%;
+  border: 0.1px solid #898989;
+  background-color: #1F1F20;
+  font-size: 1em;
+  color: white;
+  outline: none;
+}
+
+.centerinput:hover {
+  background-color: #3F3F3F;
+  border-color: #3F3F3F;
+}
+
+.centerinput:checked {
+  background-color: #3F3F3F;
+  border-color: #3F3F3F;
+}
+
+.centersubmit {
+  margin:auto;
+  background-color: #3F3F3F;
+  border: 0.1px solid #3F3F3F;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #D5D5D5;
+  padding: 9px;
+
+
+}
+
+.centersubmit:hover {
+  border-color: #898989;
+}
+
+.search {
+  margin: auto;
+  text-align: center;
+  padding: 10px 0px;
+}
